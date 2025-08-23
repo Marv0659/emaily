@@ -1,2 +1,5 @@
 // git ignore node modules
 node_modules/
+dev.js
+googleOath.txt
+
